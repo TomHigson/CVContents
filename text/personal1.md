@@ -1,9 +1,10 @@
 This CV is not just a CV, it's an open source web app that:
 - Uses Azure
-  - The app shell is [running in the Azure App Service](link coming soon)
-  - The CV content is accessed through a simple API, stored in Azure blob storage
-  - Deployment of both the app and the content is automatically deployed to a staging build using Azure DevOps
+  - The app runs [in the Azure App Service](cv.tomhigson.com)
+  - The CV content is stored in Azure blob storage, accessed using a data service
+  - Both the app and the content are automatic deployed to staging areas whenever they are updated using Azure DevOps
   - Metrics are tracked and reported using Azure Application Insights
+  - The app is secured using SSL certificates stored in the Azure key vault
 - Leverages properly formatted Angular structuring to allow component reuse
 - Is reactive to different display sizes and types
 - Provides print appropriate formatting using media queries
