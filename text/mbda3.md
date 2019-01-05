@@ -1,4 +1,4 @@
-In this company-funded activity, I acted as an internal consusltant to more than 10 mojor projects. My contributions included:
+In this company-funded activity, I acted as an internal consultant to more than 10 major projects. My contributions included:
 - Identified the need for, proposed and managed the formalisation of international model-based systems engineering practices
 	- Led a team of principal engineers to produce new modelling standards and guidelines to improve the international tool set and associated training
 	- Rolled out new business practices across multiple billion euros worth of projects
