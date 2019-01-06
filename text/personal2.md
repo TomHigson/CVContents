@@ -4,4 +4,4 @@ I am in the very early stages of producing a web app that graphically represents
   - Activities
   - Step-by-step runthroughs
   - Nutritional information
-- Intuitive drag-and-drop to customise existing recipies
+- Intuitive drag-and-drop to customise existing recipes
