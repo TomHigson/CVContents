@@ -1,8 +1,9 @@
-My certifications include:
+I am proud to be a [PMI Agile Certified Practitioner](https://www.pmi.org/certifications/types/agile-acp)
+
+My other certifications include:
 - Certified training instructor
 - Mental health first aid certified
 - Security cleared to UK level 2 (Secret) since November 2007
-- I aim to be a Microsoft Certified Azure Administrator by Q3 2019
 
 I enjoy presenting at technology conferences when I have the opportunity. Topics I have presented so far include:
 - Specialising the Systems Modelling Language for safety analysis

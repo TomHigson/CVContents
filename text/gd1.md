@@ -1,5 +1,5 @@
-I lead the engineering efforts of the Vertex research and development program and am product owner for all Vertex products. Vertex harnesses cutting-edge networking best practice to push innovation into tactical military infrastructure. Our activities include:
-- Developing a prototype application platform for peer-to-peer, tactical networks
-	- Uses an open, modular architecture to prevent vendor lock-in
-	- Focuses on developer's needs to empower them to make outstanding products for the end users
-- Introducing a simple, agile project management plan to allow more collaborative and consistent activities
+As part of General Dynamic's Vertex research and development department, I manage the upcoming **A**pplication **P**latform for **O**rchestration and **C**ollaboration, or **APOC**. APOC recently successfully demonstrated its ability to integrate web apps onto military platforms with higher levels of control and at much lower cost than with traditional integration methods.
+
+Aimed at tactical defence markets, APOC is specialised to:
+- Use open interface standards to help the Ministry of Defence achieve their [Defence as a Service vision](https://www.gov.uk/government/publications/digital-and-information-technologies-strategy/digital-and-information-technologies-strategy)
+- Emphasise collaborative, data-driven use cases, including existing military ways of working

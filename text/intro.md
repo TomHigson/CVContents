@@ -1,13 +1,11 @@
-I am a multi-disciplined engineer based in [the UK](https://goo.gl/maps/8GXyjQeBX362) with 12 years of industry experience ranging from experimental prototypes to in-service support
+I am a [PMI certified](https://www.pmi.org/certifications/types/agile-acp) agile product owner with a background in software engineering and software management. I have 12 years’ experience ranging from developing experimental prototypes to providing in-service support
 
-As a product owner, I am passionate about:
-- Working with stakeholders to find the true need behind their requirements
-- Creating simple systems to solve complex problems
-- Producing great experiences for users
+I keep my technical skills well-rounded through:
+- Developing personal web apps, such as [this one](https://www.cv.tomhigson.com), which presents my CV
+- Developing small personal projects such as home automation systems
+- Building my own computer hardware
 
-As a leader, I strive to:
-- Provide clear, realistic tasks, protected from context switches and interruptions
-- Form an environment of openness and respect
-- Provide safe spaces to grow
-- Value all contributions, suggestions and concerns
-- Defend mistakes, and help teams accept and grow from them
+I am passionate about:
+- Open, trust-based relationships, where all contributions, suggestions and concerns are valued
+- Using objective analysis to find compromises and common ground between strong, differing opinions 
+- Breaking complex problems into small, simple blocks

@@ -1,6 +1,5 @@
-I am responsible for the smooth integration of 3rd party products onto the MORPHEUS EvO network infrastructure. The strategic importance of this to the UK Ministry of Defence is described in [this press release](https://www.generaldynamics.uk.com/solutions/c4i-systems/evo/). Our activities include:
-- Maintaining working relationships with multiple 3rd parties to encourage their use of our platform and gather their feedback
-- I identified the need for and introduced DevOps specialists to improve release cadence, reduce defect severity and increase the project’s ability to react to change
-	- Championed cultural change
-	- Designed and implemented several automated pipelines across multiple teams
-- Working to replace lab-based 3rd party integration with secure, web-based, self-service integration environments
+I manage General Dynamic’s **S**oft**w**are **i**ntegration and **t**esting **c**ollaboration **h**ome, or **Switch**. Switch is a DevOps environment intended to rapidly integrate apps into the [MORPHEUS EvO network architecture](https://www.generaldynamics.uk.com/solutions/c4i-systems/evo/).
+
+This involves spending time with 3rd party developers to help them smoothly integrate their applications onto specific military hardware and software. As I do so, I feed their integration needs into the Switch development team by connecting our engineers with theirs.
+
+Switch emphasises open, collaborative working with shared deployment pipelines, plans, wikis and question and answer systems.

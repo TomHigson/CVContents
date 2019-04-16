@@ -23,26 +23,22 @@
     }
   ],
   "fields": [
+    "Product management",
+    "Stakeholder management",
+    "Mentoring and training",
+    "Scrum agile software development",
+    "DevOps",
     "Cloud architecture",
-    "Microservice architecture",
     "Web apps and services",
-    "DevOps / System Reliability Engineering",
-    "Agile development",
-    "Model based systems engineering (MBSE)",
-    "Systems Modelling Language (SysML)",
-    "User experience design",
-    "People Management",
-    "Mentoring",
-    "Delivering training",
-    "Aerospace safety analysis using IEC61508",
-    "Automotive safety analysis using ISO26262",
-    "Modularity and reuse across product lines"
+    "Modularity and reuse across product lines",
+    "Automotive engineering",
+    "Safety engineering"
   ],
   "jobs": [
     {
-      "id":"Engineering-Manager-at-General-Dynamics",
+      "id":"Principal-engineer-at-General-Dynamics",
       "companyName":"General Dynamics",
-      "level":"Engineering Manager",
+      "level":"Principal Engineer",
       "logo":"logos/gd.png",
       "link":"https://www.gd.com/",
       "start":"2017-09-01",
@@ -50,42 +46,38 @@
       "contactEmail":"bina.taylor@gd-ms.uk",
       "roles": [
         {
-          "position":"3rd party developer lead for Evolve to Open",
+          "position":"Product Owner: Switch",
           "image":"photos/gd2.png",
           "imageAlt": "A slide showing a development environment concept",
           "description": "gd2.md"
         },
         {
-          "position":"Vertex engineering lead",
+          "position":"Product Owner: APOC",
           "image":"photos/gd1.png",
-          "imageAlt": "Promotional image showing an absract view of the Vertex concept",
+          "imageAlt": "APOC user interface prototype",
           "description":"gd1.md"
         }
       ],
       "technologies": [
         {
-          "name":"Azure",
-          "link":"https://azure.microsoft.com"
+          "name":"JIRA",
+          "link":"https://www.atlassian.com/software/jira"
         },
         {
-          "name":"Office 365",
-          "link":"https://www.office.com/"
+          "name":"Artifactory",
+          "link":"https://jfrog.com/artifactory/"
+        },
+        {
+          "name":"Azure",
+          "link":"https://azure.microsoft.com"
         },
         {
           "name":"REST & OData",
           "link":"https://www.odata.org/"
         },
         {
-          "name":"Swagger",
-          "link":"https://swagger.io/"
-        },
-        {
           "name":"Progressive Web Apps",
           "link":"https://developers.google.com/web/progressive-web-apps/"
-        },
-        {
-          "name":"Powershell",
-          "link":"https://docs.microsoft.com/en-us/powershell/scripting"
         },
         {
           "name":"Git",
@@ -94,14 +86,6 @@
         {
           "name":"Rational Rhapsody",
           "link":"https://www.ibm.com/uk-en/marketplace/rational-rhapsody"
-        },
-        {
-          "name":"Rational DOORS",
-          "link":"https://www.ibm.com/us-en/marketplace/rational-doors"
-        },
-        {
-          "name":"Rational Team Concert",
-          "link":"https://www.ibm.com/uk-en/marketplace/change-and-configuration-management"
         }
       ]
     },
@@ -111,17 +95,7 @@
       "logo":"logos/personal.png",
       "roles": [
         {
-          "position":"Developer of CV App",
-          "description": "personal1.md"
-        },
-        {
-          "position":"Developer of graphical recipe web app",
-          "image":"photos/personal1.png",
-          "imageAlt":"Early concept of the reciepe system",
-          "description": "personal2.md"
-        },
-        {
-          "position":"Other",
+          "position":"Certifications and development activities",
           "description": "personal3.md"
         }
       ],
@@ -141,42 +115,6 @@
         {
           "name":"JavaScript / TypeScript",
           "link":"https://www.javascript.com/"
-        },
-        {
-          "name":"NPM",
-          "link":"https://www.npmjs.com/"
-        },
-        {
-          "name":"D3.js",
-          "link":"https://d3js.org/"
-        },
-        {
-          "name":"HTML",
-          "link":"https://en.wikipedia.org/wiki/HTML"
-        },
-        {
-          "name":"CSS / SASS",
-          "link":"https://sass-lang.com/"
-        },
-        {
-          "name":"Powershell",
-          "link":"https://docs.microsoft.com/en-us/powershell/scripting"
-        },
-        {
-          "name":"Git",
-          "link":"https://git-scm.com/"
-        },
-        {
-          "name":"Markdown",
-          "link":"https://daringfireball.net/projects/markdown/syntax"
-        },
-        {
-          "name":"Adobe Photoshop",
-          "link":"https://www.adobe.com/uk/creativecloud"
-        },
-        {
-          "name":"Adobe Premier Pro",
-          "link":"https://www.adobe.com/uk/creativecloud"
         }
       ]
     },
@@ -216,7 +154,7 @@
       ]
     },
     {
-      "id":"Principal-Manager-at-MBDA-Systems",
+      "id":"Principal-Engineer-at-MBDA-Systems",
       "companyName":"MBDA Systems",
       "level":"Principal Engineer",
       "logo":"logos/mbda.png",
@@ -235,10 +173,6 @@
           "image":"photos/mbda2.jpg",
           "imageAlt":"A successful trial of the system",
           "description": "mbda2.md"
-        },
-        {
-          "position":"Company Improvement",
-          "description": "mbda3.md"
         }
       ],
       "technologies": [
@@ -253,17 +187,13 @@
         {
           "name":"Rational DOORS",
           "link":"https://www.ibm.com/us-en/marketplace/rational-doors"
-        },
-        {
-          "name":"Rational Team Concert",
-          "link":"https://www.ibm.com/uk-en/marketplace/change-and-configuration-management"
         }
       ]
     },
     {
-      "id":"Graduate-Engineer-at-Thales",
+      "id":"Software-Engineer-at-Thales",
       "companyName":"Thales",
-      "level":"Graduate Engineer",
+      "level":"Software Engineer",
       "logo":"logos/thales.png",
       "link":"http://www.thalesgroup.com/en",
       "start":"2007-09-01",
@@ -290,10 +220,6 @@
         {
           "name":"C#",
           "link":"https://docs.microsoft.com/en-us/dotnet/csharp/"
-        },
-        {
-          "name":"C++",
-          "link":"http://www.cplusplus.com/"
         },
         {
           "name":"SQL",
