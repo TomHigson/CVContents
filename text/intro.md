@@ -1,7 +1,7 @@
 I am a [PMI certified](https://www.pmi.org/certifications/types/agile-acp) agile product owner with a background in software engineering and software management. I have 12 years’ experience ranging from developing experimental prototypes to providing in-service support
 
 I keep my technical skills well-rounded through:
-- Developing personal web apps, such as [this one](https://www.cv.tomhigson.com), which presents my CV
+- Developing personal web apps, such as [this one](http://www.cv.tomhigson.com), which presents my CV
 - Developing small personal projects such as home automation systems
 - Building my own computer hardware
 
