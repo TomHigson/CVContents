@@ -1,4 +1,4 @@
-I am proud to be a [PMI Agile Certified Practitioner](https://www.pmi.org/certifications/types/agile-acp)
+I am proud to be a [PMI Agile Certified Practitioner](https://www.youracclaim.com/badges/024777d4-200b-4730-b72b-fed99fdcdcaf/linked_in_profile)
 
 My other certifications include:
 - Certified training instructor
