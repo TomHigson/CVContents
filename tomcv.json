@@ -38,12 +38,13 @@
     {
       "id":"Principal-engineer-at-General-Dynamics",
       "companyName":"General Dynamics",
-      "level":"Principal Engineer",
+      "level":"Vertex Engineering Lead",
       "logo":"logos/gd.png",
       "link":"https://www.gd.com/",
       "start":"2017-09-01",
       "contact":"Bina Taylor",
       "contactEmail":"bina.taylor@gd-ms.uk",
+      "description":"gd.md",
       "roles": [
         {
           "position":"Product Owner: Switch",
@@ -93,12 +94,7 @@
       "id":"Personal-Development",
       "level":"Personal Development",
       "logo":"logos/personal.png",
-      "roles": [
-        {
-          "position":"Certifications and development activities",
-          "description": "personal3.md"
-        }
-      ],
+      "description": "personal3.md",
       "technologies": [
         {
           "name":"Azure",

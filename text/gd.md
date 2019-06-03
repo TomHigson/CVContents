@@ -1,0 +1,1 @@
+Vertex is a research and development division of General Dynamics intended to spawn innovative new products and capabilities.

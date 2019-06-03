@@ -2,7 +2,7 @@ I am a [PMI certified](https://www.youracclaim.com/badges/024777d4-200b-4730-b72
 
 I keep my technical skills well-rounded through:
 - Developing personal web apps, such as [this one](http://www.cv.tomhigson.com), which presents my CV
-- Developing small personal projects such as home automation systems
+- Small personal projects, such as creating home automation systems and installing [Pi Holes](https://pi-hole.net/)
 - Building my own computer hardware
 
 I am passionate about:
