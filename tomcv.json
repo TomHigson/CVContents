@@ -3,7 +3,7 @@
   "email":"Thomas.Higson@gmail.com",
   "banner":"photos/banner-background.jpg",
   "portrait":"photos/banner-face.png",
-  "initialNumberOfShownJobs": "4",
+  "initialNumberOfShownJobs": "5",
   "description":"intro.md",
   "socialNetworkLinks": [
     {
@@ -36,14 +36,40 @@
   ],
   "jobs": [
     {
+      "id":"Product-owner-at-Dyson",
+      "companyName":"Dyson",
+      "level":"Product Owner",
+      "logo":"logos/dyson.jpg",
+      "link":"https://www.dyson.co.uk/",
+      "start":"2019-09-01",
+      "description":"dyson1.md",
+      "technologies": [
+        {
+          "name":"JIRA",
+          "link":"https://www.atlassian.com/software/jira"
+        },
+        {
+          "name":"Amazon Web Services",
+          "link":"https://aws.amazon.com/"
+        },
+        {
+          "name":"Adobe Experience Manager",
+          "link":"https://www.adobe.com/uk/marketing/experience-manager.html"
+        },
+        {
+          "name":"ForgeRock",
+          "link":"https://www.forgerock.com/"
+        }
+      ]
+    },
+    {
       "id":"Principal-engineer-at-General-Dynamics",
       "companyName":"General Dynamics",
       "level":"Vertex Engineering Lead",
       "logo":"logos/gd.png",
       "link":"https://www.gd.com/",
       "start":"2017-09-01",
-      "contact":"Bina Taylor",
-      "contactEmail":"bina.taylor@gd-ms.uk",
+      "end":"2019-09-01",
       "description":"gd.md",
       "roles": [
         {

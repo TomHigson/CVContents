@@ -12,5 +12,5 @@ I enjoy presenting at technology conferences when I have the opportunity. Topics
 - Blockchain in defence
 
 I am passionate about pursuing STEM activities such as
-- Providing demonstrations at local schools
+- Providing talks and demonstrations at local schools
 - (previously) Helping organise MBDA’s annual Robot Rumble event

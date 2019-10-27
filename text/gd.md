@@ -1,1 +1,1 @@
-Vertex is a research and development division of General Dynamics intended to spawn innovative new products and capabilities.
+As engineering lead for General Dynamic's Vertex research and development department, I worked closely with internal and external stakeholders to ensure our new product innovations were in line with upcoming, ever-changing defence needs.
