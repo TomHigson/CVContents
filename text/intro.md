@@ -6,6 +6,6 @@ I have approximately 5 years' experience in product owner and similar roles and 
 - From green-field, experimental prototypes to on-site support of legacy systems
 
 Although no longer a developer, I like to keep my knowledge relevant by building in my spare time:
-- Small cloud native websites such as [this one to host my CV](http://www.cv.tomhigson.com/)
+- Small cloud native websites such as [this one to host my CV](https://tomscv.azurewebsites.net/)
 - Raspberry Pi projects, such as home automation systems and [Pi Holes](https://pi-hole.net/)
 - Selenium scripts to automate admin tasks
