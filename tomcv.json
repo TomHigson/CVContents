@@ -36,6 +36,32 @@
   ],
   "jobs": [
     {
+      "id":"Product-manager-at-Ocado",
+      "companyName":"Ocado",
+      "level":"Product Manager",
+      "logo":"logos/ocado.png",
+      "link":"https://www.ocadotechnology.com/",
+      "start":"2020-02-01",
+      "roles": [
+        {
+          "position":"Product Manager: e-commerce browse",
+          "image":"photos/ocado1.jpg",
+          "imageAlt": "An Ocado Smart Platform browse page",
+          "description": "ocado1.md"
+        }
+      ],
+      "technologies": [
+        {
+          "name":"JIRA",
+          "link":"https://www.atlassian.com/software/jira"
+        },
+        {
+          "name":"Amazon Web Services",
+          "link":"https://aws.amazon.com/"
+        }
+      ]
+    },
+    {
       "id":"Product-owner-at-Dyson",
       "companyName":"Dyson",
       "level":"Product Owner",
@@ -118,30 +144,6 @@
       ]
     },
     {
-      "id":"Personal-Development",
-      "level":"Personal Development",
-      "logo":"logos/personal.png",
-      "description": "personal3.md",
-      "technologies": [
-        {
-          "name":"Azure",
-          "link":"https://azure.microsoft.com"
-        },
-        {
-          "name":"Angular",
-          "link":"https://angular.io/"
-        },
-        {
-          "name":"Progressive Web Apps",
-          "link":"https://developers.google.com/web/progressive-web-apps/"
-        },
-        {
-          "name":"JavaScript / TypeScript",
-          "link":"https://www.javascript.com/"
-        }
-      ]
-    },
-    {
       "id":"Engineering-Manager-at-ZF-TRW",
       "companyName":"ZF TRW",
       "level":"Engineering Manager",
@@ -173,6 +175,30 @@
         {
           "name":"Rational DOORS",
           "link":"https://www.ibm.com/us-en/marketplace/rational-doors"
+        }
+      ]
+    },
+    {
+      "id":"Personal-Development",
+      "level":"Personal Development",
+      "logo":"logos/personal.png",
+      "description": "personal3.md",
+      "technologies": [
+        {
+          "name":"Azure",
+          "link":"https://azure.microsoft.com"
+        },
+        {
+          "name":"Angular",
+          "link":"https://angular.io/"
+        },
+        {
+          "name":"Progressive Web Apps",
+          "link":"https://developers.google.com/web/progressive-web-apps/"
+        },
+        {
+          "name":"JavaScript / TypeScript",
+          "link":"https://www.javascript.com/"
         }
       ]
     },
