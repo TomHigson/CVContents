@@ -39,9 +39,9 @@
       "id":"Senior-Product-manager-at-BI",
       "companyName":"Board Intelligence",
       "level":"Senior Product Manager",
-      "logo":"logos/bi.png",
+      "logo":"logos/bi.jpg",
       "link":"https://www.boardintelligence.com/",
-      "start":"2020-08-01",
+      "start":"2021-07-01",
       "description": "bi.md",
       "technologies": [
         {
@@ -57,7 +57,7 @@
       "logo":"logos/ocado.png",
       "link":"https://www.ocadotechnology.com/",
       "start":"2020-03-01",
-      "end":"2021-08-01",
+      "end":"2021-07-01",
       "roles": [
         {
           "position":"Product Manager: e-commerce browse",
