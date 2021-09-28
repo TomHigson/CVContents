@@ -36,12 +36,28 @@
   ],
   "jobs": [
     {
+      "id":"Senior-Product-manager-at-BI",
+      "companyName":"Board Intelligence",
+      "level":"Senior Product Manager",
+      "logo":"logos/bi.png",
+      "link":"https://www.boardintelligence.com/",
+      "start":"2020-08-01",
+      "description": "bi.md",
+      "technologies": [
+        {
+          "name":"JIRA",
+          "link":"https://www.atlassian.com/software/jira"
+        }
+      ]
+    },
+    {
       "id":"Product-manager-at-Ocado",
       "companyName":"Ocado",
       "level":"Product Manager",
       "logo":"logos/ocado.png",
       "link":"https://www.ocadotechnology.com/",
-      "start":"2020-02-01",
+      "start":"2020-03-01",
+      "end":"2021-08-01",
       "roles": [
         {
           "position":"Product Manager: e-commerce browse",
@@ -68,7 +84,7 @@
       "logo":"logos/dyson.jpg",
       "link":"https://www.dyson.co.uk/",
       "start":"2019-09-01",
-      "end":"2020-02-01",
+      "end":"2020-03-01",
       "description":"dyson1.md",
       "technologies": [
         {
