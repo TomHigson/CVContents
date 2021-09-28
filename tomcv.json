@@ -195,30 +195,6 @@
       ]
     },
     {
-      "id":"Personal-Development",
-      "level":"Personal Development",
-      "logo":"logos/personal.png",
-      "description": "personal3.md",
-      "technologies": [
-        {
-          "name":"Azure",
-          "link":"https://azure.microsoft.com"
-        },
-        {
-          "name":"Angular",
-          "link":"https://angular.io/"
-        },
-        {
-          "name":"Progressive Web Apps",
-          "link":"https://developers.google.com/web/progressive-web-apps/"
-        },
-        {
-          "name":"JavaScript / TypeScript",
-          "link":"https://www.javascript.com/"
-        }
-      ]
-    },
-    {
       "id":"Principal-Engineer-at-MBDA-Systems",
       "companyName":"MBDA Systems",
       "level":"Principal Engineer",
