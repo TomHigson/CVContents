@@ -1,4 +1,4 @@
-I am a [PMI certified](https://www.youracclaim.com/badges/024777d4-200b-4730-b72b-fed99fdcdcaf/linked_in_profile) technical product manager with a background in web development and cloud infrasturcure. As a certified agile practitioner, I also enjoy helping each company I've worked with work towards their agile transition goals.
+I am a [PMI certified](https://www.youracclaim.com/badges/024777d4-200b-4730-b72b-fed99fdcdcaf/linked_in_profile) technical product manager with a background in web development and cloud infrasturcure. As a certified agile practitioner, I also enjoy helping each company I work with progress their agile transition.
 
 I have more than 5 years' experience in product roles and 12 years’ software experience overall. My passion is to learn new industries, their driving forces and differing product propositions. Then, alonglide domain experts, I love to devise and explore innovative concepts to create products uniquely beloved to their users. So far I've done this for:
 - Ocado's grocery e-commerce platform
