@@ -1,1 +1,4 @@
-I took **A**pplication **P**latform for **O**rchestration and **C**ollaboration, or **APOC**, from a spark of an idea to a proof of concept system. Unlike other app platforms, APOC provides MORPHEUS network architecture interfaces for both bespoke and commercial apps to separate business logic and data management from the apps.
+I took **A**pplication **P**latform for **O**rchestration and **C**ollaboration, or **APOC**, from a spark of an idea to a proof of concept system. Unlike other app platforms, APOC provides MORPHEUS network architecture interfaces for both bespoke and commercial apps to separate business logic and data management from the apps
+
+Highlights include:
+- Introduced app management and separation technologies to reduce operational downtime by 70%

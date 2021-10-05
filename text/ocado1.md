@@ -1,8 +1,8 @@
-I managed an agile team tasked with providing customers with new, inspirational opportunities to try new items within the Ocado Smart Platform e-commerce website.
+I managed an agile team within Ocado’s next generation grocery e-commerce solution
 
-¾ of the UK workforce eat the same lunch every working day. Our mission was to help people like this easily find alternatives, bringing them greater satisfaction and better health.
+Considering ¾ of the UK workforce eat the same lunch every working day, our mission was to eliminate grocery tedium by making it effortless to find alternatives that align with your shopping interests, bringing greater satisfaction and better health
 
-Highlights include:
--	Working with experts to workshop new shopping experiences, the technologies they would require and how to launch them to create a positive impression
+-	Ranked the relative needs and priorities for a bespoke recommendations engine that outperformed the old engine across all metrics
+-	Improved discoverability of key user stories from 30% to 80%
+-	Helped the robotics team prioritise work to maximise value using value stream analysis
 - Working with global retail partners of different cultures and markets to agree future visions
-- Retaining enough agility to adapt to unprecedented demand and sudden market change

@@ -1,4 +1,6 @@
-An overview of the project is available in [this press release](http://www.defense-aerospace.com/article-view/release/74687/thales-uk-wins-allied-reaction-corps-contract.html). My contributions included:
+An overview of the project is available in [this press release](http://www.defense-aerospace.com/article-view/release/74687/thales-uk-wins-allied-reaction-corps-contract.html)
+
+My contributions included:
 - Worked within a team to design, implement and maintain a multi-domain Windows Server network
   - Incorporated an intricate complex oracle database system
   - Required accrediting to NATO security standards
