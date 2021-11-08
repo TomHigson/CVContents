@@ -23,16 +23,13 @@
     }
   ],
   "fields": [
-    "Product management",
-    "Stakeholder management",
-    "Mentoring and training",
+    "Software as a Service",
+    "e-commerce",
     "Scrum agile software development",
     "DevOps",
-    "Cloud architecture",
+    "Cloud platforms",
     "Web apps and services",
-    "Modularity and reuse across product lines",
-    "Automotive engineering",
-    "Safety engineering"
+    "Mentoring and training"
   ],
   "jobs": [
     {
@@ -80,7 +77,7 @@
     {
       "id":"Product-owner-at-Dyson",
       "companyName":"Dyson",
-      "level":"Product Owner",
+      "level":"Technical Product Owner",
       "logo":"logos/dyson.jpg",
       "link":"https://www.dyson.co.uk/",
       "start":"2019-09-01",
@@ -108,7 +105,7 @@
     {
       "id":"Principal-engineer-at-General-Dynamics",
       "companyName":"General Dynamics",
-      "level":"Vertex Engineering Lead",
+      "level":"Engineering Lead and Product Owner",
       "logo":"logos/gd.png",
       "link":"https://www.gd.com/",
       "start":"2017-09-01",
@@ -197,7 +194,7 @@
     {
       "id":"Principal-Engineer-at-MBDA-Systems",
       "companyName":"MBDA Systems",
-      "level":"Principal Engineer",
+      "level":"System Architect",
       "logo":"logos/mbda.png",
       "link":"https://www.mbda-systems.com/",
       "start":"2009-06-01",

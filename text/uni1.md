@@ -4,4 +4,4 @@ I studied:
 - Computer vision
 - Mathematics
 
-My dissertation explored techniques to infer information across sets of related photographs by assessing their metadata
+My dissertation explored techniques to infer information across sets of related photographs by assessing their metadata.
